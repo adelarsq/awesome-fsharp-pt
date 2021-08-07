@@ -18,6 +18,7 @@ Uma lista com conteúdos sobre F# em Língua Portuguesa
 ## Slides
 
 - [F# e o paradigma funcional](https://pt.slideshare.net/EvandroSouza40/f-sharp-e-o-paradigma-funcional)
+- [Web Scraping com F#](https://pt.slideshare.net/POANETMeetup/web-scraping-com-f-sharp)
 
 ## Vídeos
 
