@@ -18,6 +18,8 @@ Uma lista com conteúdos sobre F# em Língua Portuguesa
 
 - [Por que aprender F#?](https://www.lambda3.com.br/2017/07/por-que-aprender-fsharp/)
 - [F# - Wikipedia](https://pt.wikipedia.org/wiki/F_Sharp)
+- [Básico sobre Inferência de Tipos em F#](https://adelarsq.medium.com/b%C3%A1sico-sobre-infer%C3%AAncia-de-tipos-em-f-ad259b75e9e)
+- [Interpretando Fórmulas com F#](https://adelarsq.medium.com/interpretando-f%C3%B3rmulas-com-f-cb8f26916176)
 
 ## Slides
 
