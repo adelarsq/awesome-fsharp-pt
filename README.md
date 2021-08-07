@@ -6,6 +6,10 @@ Uma lista com conteúdos sobre F# em Língua Portuguesa
 
 - [F# - Microsoft](https://docs.microsoft.com/pt-br/dotnet/fsharp)
 
+## Para Aprender
+
+- [F# BR](https://github.com/frvs/fsharpbr)
+
 ## Resumos
 
 - [Aprenda F# em Y Minutos](https://learnxinyminutes.com/docs/pt-br/fsharp-pt/)
